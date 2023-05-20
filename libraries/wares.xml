@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff> 
+	<replace sel="/wares/ware[@id='weapon_par_m_railgun_01_mk1']/price">
+		<price min="152176" average="226099" max="300023" /> 
+	</replace>
+	<replace sel="/wares/ware[@id='weapon_par_m_railgun_01_mk1']/production[@method='default']/primary">
+		<primary> 
+			<ware ware="advancedelectronics" amount="28" />
+			<ware ware="energycells" amount="5" />
+			<ware ware="weaponcomponents" amount="37" />
+		</primary> 
+	</replace>
+
+	<replace sel="/wares/ware[@id='weapon_par_m_railgun_01_mk2']/price">
+		<price min="594097" average="892156" max="1190214" /> 
+	</replace>
+	<replace sel="/wares/ware[@id='weapon_par_m_railgun_01_mk2']/production[@method='default']/primary">
+		<primary> 
+			<ware ware="advancedelectronics" amount="101" />
+			<ware ware="energycells" amount="10" />
+			<ware ware="weaponcomponents" amount="187" />
+		</primary> 
+	</replace>
+
+	<replace sel="/wares/ware[@id='weapon_par_s_railgun_01_mk1']/price">
+		<price min="81724" average="123157" max="164591" /> 
+	</replace>
+	<replace sel="/wares/ware[@id='weapon_par_s_railgun_01_mk1']/production[@method='default']/primary">
+		<primary> 
+			<ware ware="advancedelectronics" amount="13" />
+			<ware ware="energycells" amount="5" />
+			<ware ware="weaponcomponents" amount="27" />
+		</primary> 
+	</replace>
+
+	<replace sel="/wares/ware[@id='weapon_par_s_railgun_01_mk2']/price">
+		<price min="430023" average="646206" max="862390" /> 
+	</replace>
+	<replace sel="/wares/ware[@id='weapon_par_s_railgun_01_mk2']/production[@method='default']/primary">
+		<primary> 
+			<ware ware="advancedelectronics" amount="73" />
+			<ware ware="energycells" amount="10" />
+			<ware ware="weaponcomponents" amount="137" />
+		</primary> 
+	</replace>
+
+	<replace sel="/wares/ware[@id='weapon_spl_m_railgun_01_mk1']/price">
+		<price min="149688" average="225777" max="301867" /> 
+	</replace>
+	<replace sel="/wares/ware[@id='weapon_spl_m_railgun_01_mk1']/production[@method='default']/primary">
+		<primary> 
+			<ware ware="advancedelectronics" amount="24" />
+			<ware ware="energycells" amount="14" />
+			<ware ware="weaponcomponents" amount="51" />
+		</primary> 
+	</replace>
+
+	<replace sel="/wares/ware[@id='weapon_spl_m_railgun_01_mk2']/price">
+		<price min="590694" average="889317" max="1187940" /> 
+	</replace>
+	<replace sel="/wares/ware[@id='weapon_spl_m_railgun_01_mk2']/production[@method='default']/primary">
+		<primary> 
+			<ware ware="advancedelectronics" amount="197" />
+			<ware ware="energycells" amount="53" />
+			<ware ware="weaponcomponents" amount="195" />
+		</primary> 
+	</replace>
+
+	<replace sel="/wares/ware[@id='weapon_spl_s_railgun_01_mk1']/price">
+		<price min="79236" average="122835" max="166435" /> 
+	</replace>
+	<replace sel="/wares/ware[@id='weapon_spl_s_railgun_01_mk1']/production[@method='default']/primary">
+		<primary> 
+			<ware ware="advancedelectronics" amount="9" />
+			<ware ware="energycells" amount="14" />
+			<ware ware="weaponcomponents" amount="82" />
+		</primary> 
+	</replace>
+
+	<replace sel="/wares/ware[@id='weapon_spl_s_railgun_01_mk2']/price">
+		<price min="419574" average="633074" max="846573" /> 
+	</replace>
+	<replace sel="/wares/ware[@id='weapon_spl_s_railgun_01_mk2']/production[@method='default']/primary">
+		<primary> 
+			<ware ware="advancedelectronics" amount="68" />
+			<ware ware="energycells" amount="26" />
+			<ware ware="weaponcomponents" amount="145" />
+		</primary> 
+	</replace>
+
+</diff> 

@@ -1,0 +1,6 @@
+<diff> 
+	<replace sel="//macros/macro/properties/rotationspeed/@max">20.00</replace>
+	<replace sel="//macros/macro/properties/rotationacceleration/@max">30.00</replace>
+	<replace sel="//macros/macro/properties/heat/@cooldelay">1.50</replace>
+	<replace sel="//macros/macro/properties/heat/@coolrate">1200</replace>
+</diff> 

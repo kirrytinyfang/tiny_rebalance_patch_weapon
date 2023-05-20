@@ -1,0 +1,4 @@
+<diff> 
+	<replace sel="//macros/macro/properties/rotationspeed/@max">77.88</replace>
+	<replace sel="//macros/macro/properties/rotationacceleration/@max">155.76</replace>
+</diff> 

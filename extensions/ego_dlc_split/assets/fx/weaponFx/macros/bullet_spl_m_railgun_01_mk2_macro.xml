@@ -1,0 +1,4 @@
+<diff> 
+	<replace sel="//macros/macro/properties/heat/@initial">4000</replace>
+	<replace sel="//macros/macro/properties/damage/@value">3200.00</replace>
+</diff> 

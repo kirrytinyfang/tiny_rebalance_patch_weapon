@@ -1,0 +1,4 @@
+<diff> 
+	<replace sel="//macros/macro/properties/bullet/@speed">4320</replace>
+	<replace sel="//macros/macro/properties/bullet/@lifetime">0.61</replace>
+</diff> 

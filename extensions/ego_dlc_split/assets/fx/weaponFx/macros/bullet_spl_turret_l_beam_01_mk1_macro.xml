@@ -1,0 +1,4 @@
+<diff> 
+	<replace sel="//macros/macro/properties/bullet/@range">5750</replace>
+	<add sel="//macros/macro/properties/damage" type="@shield">45.00</add>
+</diff> 
