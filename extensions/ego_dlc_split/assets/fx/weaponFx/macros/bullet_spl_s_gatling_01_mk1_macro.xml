@@ -1,7 +1,8 @@
 <diff> 
 	<replace sel="//macros/macro/properties/bullet/@speed">2592</replace>
 	<replace sel="//macros/macro/properties/bullet/@lifetime">1.04</replace>
-	<replace sel="//macros/macro/properties/bullet/@angle">0.640</replace>
+	<!-- replace sel="//macros/macro/properties/bullet/@angle">0.640</replace -->
+	<replace sel="//macros/macro/properties/bullet/@angle">0.896</replace>
 	<replace sel="//macros/macro/properties/damage/@value">7.00</replace>
 	<add sel="//macros/macro/properties/damage" type="@shield">3.00</add>
 </diff> 
