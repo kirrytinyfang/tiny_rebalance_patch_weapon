@@ -88,4 +88,171 @@
 		</primary> 
 	</replace>
 
+	<replace sel="/wares/ware[@id='turret_arg_l_beam_01_mk1']/price">
+		<price min="67732" average="75257" max="82783" /> 
+	</replace>
+	<replace sel="/wares/ware[@id='turret_arg_l_beam_01_mk1']/production[@method='default']/primary">
+		<primary> 
+			<ware ware="advancedelectronics" amount="9" />
+			<ware ware="energycells" amount="5" />
+			<ware ware="turretcomponents" amount="15" />
+		</primary> 
+	</replace>
+
+	<replace sel="/wares/ware[@id='turret_arg_m_beam_01_mk1']/price">
+		<price min="22692" average="25214" max="27735" />
+	</replace>
+	<replace sel="/wares/ware[@id='turret_arg_m_beam_01_mk1']/production[@method='default']/primary">
+		<primary> 
+			<ware ware="advancedelectronics" amount="3" />
+			<ware ware="energycells" amount="5" />
+			<ware ware="turretcomponents" amount="5" />
+		</primary> 
+	</replace>
+
+	<replace sel="/wares/ware[@id='turret_arg_m_beam_02_mk1']/price">
+		<price min="22692" average="25214" max="27735" />
+	</replace>
+	<replace sel="/wares/ware[@id='turret_arg_m_beam_02_mk1']/production[@method='default']/primary">
+		<primary> 
+			<ware ware="advancedelectronics" amount="3" />
+			<ware ware="energycells" amount="5" />
+			<ware ware="turretcomponents" amount="5" />
+		</primary> 
+	</replace>
+
+	<replace sel="/wares/ware[@id='turret_tel_l_beam_01_mk1']/price">
+		<price min="67732" average="75257" max="82783" /> 
+	</replace>
+	<replace sel="/wares/ware[@id='turret_tel_l_beam_01_mk1']/production[@method='default']/primary">
+		<primary> 
+			<ware ware="advancedelectronics" amount="9" />
+			<ware ware="energycells" amount="5" />
+			<ware ware="turretcomponents" amount="15" />
+		</primary> 
+	</replace>
+
+	<replace sel="/wares/ware[@id='turret_tel_m_beam_01_mk1']/price">
+		<price min="22692" average="25214" max="27735" />
+	</replace>
+	<replace sel="/wares/ware[@id='turret_tel_m_beam_01_mk1']/production[@method='default']/primary">
+		<primary> 
+			<ware ware="advancedelectronics" amount="3" />
+			<ware ware="energycells" amount="5" />
+			<ware ware="turretcomponents" amount="5" />
+		</primary> 
+	</replace>
+
+	<replace sel="/wares/ware[@id='turret_tel_m_beam_02_mk1']/price">
+		<price min="22692" average="25214" max="27735" />
+	</replace>
+	<replace sel="/wares/ware[@id='turret_tel_m_beam_02_mk1']/production[@method='default']/primary">
+		<primary> 
+			<ware ware="advancedelectronics" amount="3" />
+			<ware ware="energycells" amount="5" />
+			<ware ware="turretcomponents" amount="5" />
+		</primary> 
+	</replace>
+
+	<replace sel="/wares/ware[@id='turret_par_l_beam_01_mk1']/price">
+		<price min="67732" average="75257" max="82783" /> 
+	</replace>
+	<replace sel="/wares/ware[@id='turret_par_l_beam_01_mk1']/production[@method='default']/primary">
+		<primary> 
+			<ware ware="advancedelectronics" amount="9" />
+			<ware ware="energycells" amount="5" />
+			<ware ware="turretcomponents" amount="15" />
+		</primary> 
+	</replace>
+	<replace sel="/wares/ware[@id='turret_par_m_beam_01_mk1']/price">
+		<price min="22692" average="25214" max="27735" />
+	</replace>
+
+	<replace sel="/wares/ware[@id='turret_par_m_beam_01_mk1']/production[@method='default']/primary">
+		<primary> 
+			<ware ware="advancedelectronics" amount="3" />
+			<ware ware="energycells" amount="5" />
+			<ware ware="turretcomponents" amount="5" />
+		</primary> 
+	</replace>
+
+	<replace sel="/wares/ware[@id='turret_par_m_beam_02_mk1']/price">
+		<price min="22692" average="25214" max="27735" />
+	</replace>
+	<replace sel="/wares/ware[@id='turret_par_m_beam_02_mk1']/production[@method='default']/primary">
+		<primary> 
+			<ware ware="advancedelectronics" amount="3" />
+			<ware ware="energycells" amount="5" />
+			<ware ware="turretcomponents" amount="5" />
+		</primary> 
+	</replace>
+
+	<replace sel="/wares/ware[@id='turret_spl_l_beam_01_mk1']/price">
+		<price min="49003" average="75274" max="101676" /> 
+	</replace>
+	<replace sel="/wares/ware[@id='turret_spl_l_beam_01_mk1']/production[@method='default']/primary">
+		<primary> 
+			<ware ware="advancedelectronics" amount="6" />
+			<ware ware="energycells" amount="21" />
+			<ware ware="turretcomponents" amount="23" />
+		</primary> 
+	</replace>
+
+	<replace sel="/wares/ware[@id='turret_spl_m_beam_01_mk1']/price">
+		<price min="16325" average="25590" max="34904" />
+	</replace>
+	<replace sel="/wares/ware[@id='turret_spl_m_beam_01_mk1']/production[@method='default']/primary">
+		<primary> 
+			<ware ware="advancedelectronics" amount="1" />
+			<ware ware="energycells" amount="40" />
+			<ware ware="turretcomponents" amount="8" />
+		</primary> 
+	</replace>
+
+	<replace sel="/wares/ware[@id='turret_spl_m_beam_02_mk1']/price">
+		<price min="16325" average="25590" max="34904" />
+	</replace>
+	<replace sel="/wares/ware[@id='turret_spl_m_beam_02_mk1']/production[@method='default']/primary">
+		<primary> 
+			<ware ware="advancedelectronics" amount="1" />
+			<ware ware="energycells" amount="40" />
+			<ware ware="turretcomponents" amount="8" />
+		</primary> 
+	</replace>
+
+	<replace sel="/wares/ware[@id='turret_ter_l_beam_01_mk1']/price">
+		<price min="162609" average="180676" max="198744" />
+	</replace>
+	<replace sel="/wares/ware[@id='turret_ter_l_beam_01_mk1']/production[@method='default']/primary">
+		<primary> 
+			<ware ware="computronicsubstrate" amount="7" />
+			<ware ware="energycells" amount="50" />
+			<ware ware="metallicmicrolattice" amount="50" />
+			<ware ware="siliconcarbide" amount="7" />
+		</primary> 
+	</replace>
+
+	<replace sel="/wares/ware[@id='turret_ter_m_beam_01_mk1']/price">
+		<price min="54479" average="60532" max="66586" />
+	</replace>
+	<replace sel="/wares/ware[@id='turret_ter_l_beam_01_mk1']/production[@method='default']/primary">
+		<primary> 
+			<ware ware="computronicsubstrate" amount="2" />
+			<ware ware="energycells" amount="50" />
+			<ware ware="metallicmicrolattice" amount="18" />
+			<ware ware="siliconcarbide" amount="2" />
+		</primary> 
+	</replace>
+
+	<replace sel="/wares/ware[@id='turret_ter_m_beam_02_mk1']/price">
+		<price min="54479" average="60532" max="66586" />
+	</replace>
+	<replace sel="/wares/ware[@id='turret_ter_l_beam_02_mk1']/production[@method='default']/primary">
+		<primary> 
+			<ware ware="computronicsubstrate" amount="2" />
+			<ware ware="energycells" amount="50" />
+			<ware ware="metallicmicrolattice" amount="18" />
+			<ware ware="siliconcarbide" amount="2" />
+		</primary> 
+	</replace>
 </diff> 

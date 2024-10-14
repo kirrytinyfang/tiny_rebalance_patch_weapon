@@ -1,4 +1,6 @@
 <diff> 
 	<replace sel="//macros/macro/properties/bullet/@range">5307</replace>
+	<replace sel="//macros/macro/properties/bullet/@barrelamount">2</replace>
+	<replace sel="//macros/macro/properties/bullet/damage/@value">123.2</replace>
 	<add sel="//macros/macro/properties/damage" type="@shield">52.8</add>
 </diff> 
