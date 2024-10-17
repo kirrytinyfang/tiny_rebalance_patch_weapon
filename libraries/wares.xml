@@ -235,7 +235,7 @@
 	<replace sel="/wares/ware[@id='turret_ter_m_beam_01_mk1']/price">
 		<price min="54479" average="60532" max="66586" />
 	</replace>
-	<replace sel="/wares/ware[@id='turret_ter_l_beam_01_mk1']/production[@method='default']/primary">
+	<replace sel="/wares/ware[@id='turret_ter_m_beam_02_mk1']/production[@method='default']/primary">
 		<primary> 
 			<ware ware="computronicsubstrate" amount="2" />
 			<ware ware="energycells" amount="50" />
@@ -247,7 +247,7 @@
 	<replace sel="/wares/ware[@id='turret_ter_m_beam_02_mk1']/price">
 		<price min="54479" average="60532" max="66586" />
 	</replace>
-	<replace sel="/wares/ware[@id='turret_ter_l_beam_02_mk1']/production[@method='default']/primary">
+	<replace sel="/wares/ware[@id='turret_ter_m_beam_02_mk1']/production[@method='default']/primary">
 		<primary> 
 			<ware ware="computronicsubstrate" amount="2" />
 			<ware ware="energycells" amount="50" />
