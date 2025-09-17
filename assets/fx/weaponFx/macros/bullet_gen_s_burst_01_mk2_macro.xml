@@ -1,5 +1,5 @@
 <diff> 
-	<replace sel="//macros/macro/properties/bullet/@range">2070</replace>
+	<replace sel="//macros/macro/properties/bullet/@range">2415</replace>
 	<replace sel="//macros/macro/properties/damage/@hull">39.00</replace>
 	<replace sel="//macros/macro/properties/damage/multiplier/@surfaceelement">8</replace>
 </diff> 
